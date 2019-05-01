@@ -1,0 +1,15 @@
+﻿  ofApp.cpp
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CircleDemo.vcxproj -> J:\My Code\C++\openFrameworks\of_v0.10.1_vs2017_release\apps\myApps\CircleDemo\CircleDemo\bin\CircleDemo_debug.exe
+  
+  	                   2	J:\My Code\C++\openFrameworks\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 6942208	J:\My Code\C++\openFrameworks\of_v0.10.1_vs2017_release\apps\myApps\CircleDemo\CircleDemo\bin\FreeImage.dll
+  
+  	                   1	J:\My Code\C++\openFrameworks\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1503232	J:\My Code\C++\openFrameworks\of_v0.10.1_vs2017_release\apps\myApps\CircleDemo\CircleDemo\bin\fmodex64.dll
+  	  *EXTRA File 		 1552384	J:\My Code\C++\openFrameworks\of_v0.10.1_vs2017_release\apps\myApps\CircleDemo\CircleDemo\bin\fmodexL64.dll
