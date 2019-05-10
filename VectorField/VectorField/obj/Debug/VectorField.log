@@ -1,0 +1,23 @@
+﻿  ofApp.cpp
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\addons\ofxdatgui\src\components\ofxdatguitextinputfield.h(173): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\addons\ofxdatgui\src\components\ofxdatguislider.h(334): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\addons\ofxdatgui\src\components\ofxdatguislider.h(337): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\addons\ofxdatgui\src\components\ofxdatguiscrollview.h(74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\addons\ofxdatgui\src\components\ofxdatguiscrollview.h(182): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\addons\ofxdatgui\src\components\ofxdatguigroups.h(397): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\addons\ofxdatgui\src\components\ofxdatguigroups.h(456): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\my code\c++\openframeworks\of_v0.10.1_vs2017_release\addons\ofxdatgui\src\components\ofxdatguigroups.h(492): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  VectorField.vcxproj -> J:\My Code\C++\openFrameworks\of_v0.10.1_vs2017_release\apps\myApps\VectorField\VectorField\VectorField\bin\VectorField_debug.exe
+  
+  	                   2	J:\My Code\C++\openFrameworks\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 6942208	J:\My Code\C++\openFrameworks\of_v0.10.1_vs2017_release\apps\myApps\VectorField\VectorField\VectorField\bin\FreeImage.dll
+  
+  	                   1	J:\My Code\C++\openFrameworks\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1503232	J:\My Code\C++\openFrameworks\of_v0.10.1_vs2017_release\apps\myApps\VectorField\VectorField\VectorField\bin\fmodex64.dll
+  	  *EXTRA File 		 1552384	J:\My Code\C++\openFrameworks\of_v0.10.1_vs2017_release\apps\myApps\VectorField\VectorField\VectorField\bin\fmodexL64.dll
